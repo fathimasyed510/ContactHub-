@@ -148,7 +148,7 @@ def login_screen():
           <p>A simple, private space to save, search and manage your contacts.</p>
         </div>
         """, unsafe_allow_html=True)
-        st.markdown("### ✨ Stay organised")
+        st.markdown("###  Stay organised")
         st.write("Keep contact details together, find people quickly, and manage your personal contact list from one dashboard.")
         st.caption("Each account sees only the contacts saved under that account.")
     with right:
